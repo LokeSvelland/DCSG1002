@@ -1,0 +1,25 @@
+body {
+    background-color: black;
+    border: solid 2px lightblue;
+    height: 100vh;
+    
+}
+
+h1 {
+    border: solid 2px yellow;
+    text-align: center;
+    height: 10vh;
+}
+
+#main {
+    color: white;
+    border: solid 2px green;
+    height: 70vh;
+}
+
+#footer {
+    color: white;
+    border: solid 2px white;
+    height: 20vh;
+    margin-bottom: 1px;
+}
