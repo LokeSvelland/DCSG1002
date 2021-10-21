@@ -1,12 +1,10 @@
 body {
     background-color: darkgrey;
-    border: solid 2px lightblue;
     height: 100vh;
     
 }
 
 h1 {
-    border: solid 2px yellow;
     text-align: center;
     height: 10vh;
     margin-top: 0;
@@ -14,14 +12,18 @@ h1 {
 
 #main {
     color: black;
-    border: solid 2px green;
     height: 70vh;
+}
+
+#innledning {
+    width: 50vw;
+
 }
 
 #footer {
     color: white;
-    border: solid 2px white;
-    height: 13rem;
+    height: 15rem;
+    margin-left: 0px;
     margin-bottom: 0;
     background-color: rgb(43, 43, 43);
 }
