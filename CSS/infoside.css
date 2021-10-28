@@ -5,7 +5,7 @@ body {
 }
 
 header {
-    height:20vh;
+    height:10vh;
 }
 
 h1 {
@@ -20,7 +20,7 @@ h1 {
 }
 
 #info {
-    height: 50vh;
+    width: 70vw;
 }
 
 .hjemknapp {
@@ -37,9 +37,12 @@ h1 {
 }
 
 #footer {
+    position: absolute;
+    float: bottom;
     color: white;
-    height: 15rem;
+    height: 12rem;
+    width: 99vw;
     margin-left: 0px;
-    margin-bottom: 0;
+    margin-bottom: 0px;
     background-color: rgb(43, 43, 43);
 }
