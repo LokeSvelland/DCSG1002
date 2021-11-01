@@ -17,10 +17,28 @@ h1 {
 #main {
     color: black;
     height: 70vh;
+    float: left;
 }
 
 #info {
-    width: 70vw;
+    width: 90vw;
+}
+
+.tiltak {
+    width: 60vw;
+}
+
+#bilde1 {
+    position: absolute;
+    float: right;
+    right: 0px;
+}
+
+#bilde2 {
+    position: relative;
+    float: right;
+    margin-top: 470px;
+    right: 0px;
 }
 
 .hjemknapp {
@@ -37,7 +55,7 @@ h1 {
 }
 
 #footer {
-    position: absolute;
+    position: relative;
     float: bottom;
     color: white;
     height: 12rem;
