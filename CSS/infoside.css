@@ -22,10 +22,11 @@ h1 {
 
 #info {
     width: 90vw;
+    float: left;
 }
 
 .tiltak {
-    width: 60vw;
+    width: 50vw;
 }
 
 #bilde1 {
@@ -39,6 +40,10 @@ h1 {
     float: right;
     margin-top: 470px;
     right: 0px;
+}
+
+#bilda {
+    float: right;
 }
 
 .hjemknapp {
