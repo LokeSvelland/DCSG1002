@@ -5,12 +5,13 @@ body {
 }
 
 header {
-    height:10vh;
+    height:15vh;
+    text-align: center;
 }
 
 h1 {
     text-align: center;
-    height: 10vh;
+    height: 15vh;
     margin-top: 0;
 }
 
@@ -40,6 +41,10 @@ h1 {
     float: right;
     margin-top: 470px;
     right: 0px;
+}
+
+#bilde3 {
+    float: right;
 }
 
 #bilda {
