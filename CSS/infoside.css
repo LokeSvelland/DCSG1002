@@ -52,6 +52,13 @@ h1 {
     float: right;
 }
 
+#kilder {
+    position: relative;
+    width: auto;
+    height: auto;
+    font-size: 15px;
+}
+
 .hjemknapp {
     background-color: #000000;
     border: none;
